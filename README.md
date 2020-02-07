@@ -1,2 +1,3 @@
-# firefox-addon-wayuunaiki-language
+# firefox-addon-guc-language
+
 Mozilla Firefox Addon Wayuunaiki Language
